@@ -7,5 +7,6 @@ This repository contains code and documentation for our Duckietown autonomous ra
 ## Setup Instructions
 
 ## Team Members
+Andrew, Jayanth, Joel, Kunal
 
 
